@@ -3,7 +3,6 @@ import StarterKit from '@tiptap/starter-kit';
 import { useEditor, EditorContent, BubbleMenu } from '@tiptap/vue-3';
 // import BubbleMenu from '@tiptap/extension-bubble-menu'
 import { watchEffect, ref, onMounted, nextTick, onBeforeUnmount } from 'vue';
-
 // codeblockに色を付ける 言語ごとに色が変わる
 import { lowlight } from 'lowlight/lib/core';
 import CodeBlockLowlight from '@tiptap/extension-code-block-lowlight';
