@@ -1,7 +1,7 @@
 # 目次
 - [環境構築(GitHubから)](#環境構築githubから)
     - [Node.js推奨版をダウンロード+インストール](#nodejs推奨版をダウンロードインストール)
-    - [GitHub Desktopをダウンロード+インストール](#github-desktopをダウンロードインストール)
+    - [~~GitHub Desktopをダウンロード+インストール~~](#github-desktopをダウンロードインストール)
     - [VSCodeでビルド](#vscodeでビルド)
 - [環境構築(最初から) ](#環境構築最初から)
     - [Node.js推奨版をダウンロード+インストール](#nodejs推奨版をダウンロードインストール-1)
@@ -28,7 +28,7 @@
 ### Node.js推奨版をダウンロード+インストール
 - >https://nodejs.org/ja/download/
 
-### GitHub Desktopをダウンロード+インストール
+### ~~GitHub Desktopをダウンロード+インストール~~※必要ない
 1. >https://desktop.github.com/
 2. [Clone a Repository from the internet]を選択
 3. Local Path -> Cドライブ直下のフォルダを指定(今回だと**test**)
